@@ -43,6 +43,7 @@ Use DAX for advanced calculations (e.g., year-on-year growth rates).
 Visualizations:
 
 3.Design visuals for each KPI:
+
 Line Chart: Year-wise loan growth.
 Bar Charts: Grade and subgrade-wise revolving balances.
 Pie Chart: Verified vs. Non-Verified payment distribution.
@@ -51,6 +52,7 @@ Calendar Visual: Month-wise loan activity.
 Apply slicers and filters (e.g., year, state, grade) for interactive analysis.
 
 4.Dashboard Customization:
+
 Arrange visuals for clarity and aesthetics.
 Add tooltips and annotations to highlight insights.
 Configure navigation (e.g., drill-through to detailed views).
