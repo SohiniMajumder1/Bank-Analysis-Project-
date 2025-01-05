@@ -1,7 +1,11 @@
 # Bank Loan Analysis-Project
 
 Power BI Dashboard Link:- https://app.powerbi.com/links/Yx_yluj8Aj?ctid=a244f90e-beae-4adc-a8cb-4c0c34466fd2&pbi_source=linkShare
+
+
 Tableau Link :- https://public.tableau.com/app/profile/sohini.majumder/viz/BankLoanAnalysisDashboard_17360956037580/Dashboard2?publish=yes
+
+
 
 Tools Used
 
